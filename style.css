@@ -57,3 +57,6 @@ h2 {
     text-align: end;
     margin: 20px;
 }
+.form input{
+    outline: none;
+}
